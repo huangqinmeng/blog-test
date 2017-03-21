@@ -1,0 +1,61 @@
+*{
+	box-sizing:boder-box;
+}
+.content{
+	margin-top: 100px;                                                       
+	width: 100%;
+	height: 500px;
+	
+}
+.input{
+	position: absolute;
+	right: 40%;
+	margin: auto;
+	padding:50px 100px 0 100px;
+	margin-top: 100px;
+	width: 500px;
+	height: 300px;
+	clear: both;
+	background-color: #28CC9E;
+	border-radius: 5px;
+
+}
+
+ .input .username{
+	margin: auto;
+}
+ .input img{
+	width: 15px;
+	text-align: center;
+	margin: 10px 0 0 10px;
+}
+
+ .input .login_text{
+
+	width: 300px;
+	height: 40px;
+	border:1px solid #d0d0d0;
+	border-radius:5px;
+	display: inline-block;
+	padding-left: 15px;
+	font-size: 15px;
+	
+}
+ .input .password{
+	margin-top: 25px;
+	position: relative;
+}
+ .sumbit1{
+	margin: 40px 0 0 0;
+	width: 300px;
+	height: 45px;
+	background: rgb(0,130,130);
+	border: 2px solid rgb(0,130,130);
+	border-radius: 5px;
+	color: white;
+	letter-spacing: 15px;
+	text-align: center;
+	font-size: 15px;
+	outline: none;
+	cursor: pointer;
+}
