@@ -1,1 +1,3 @@
 # blog-test
+一个小的webpack+react-router的博客demo
+暂时还没用到redux，项目完善中....
