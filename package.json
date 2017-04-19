@@ -8,16 +8,6 @@
     "hot": "node server_hot.js",
     "dist": "webpack --config webpack.config.dist.js --progress --colors --watch -p"
   },
-  "repository": {
-    "type": "github",
-    "url": "https://github.com/bailicangdu/pxq"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bailicangdu/pxq/issues"
-  },
-  "homepage": "https://github.com/bailicangdu/pxq#readme",
   "dependencies": {
     "github-markdown-css": "^2.4.0",
     "immutable": "^3.8.1",
